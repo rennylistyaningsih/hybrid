@@ -1,0 +1,10 @@
+{
+  "biodata": {
+    "nama" : "Renny Listyaningsih",
+    "nim" : "17.01.4083",
+    "hobi" : [
+      "tidur",
+      "bangun"
+    ]
+  }
+}
